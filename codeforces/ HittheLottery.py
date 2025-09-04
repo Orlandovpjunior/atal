@@ -1,3 +1,5 @@
+#  HittheLottery
+
 n = int(input())
 
 coins = [100,20,10,5,1]

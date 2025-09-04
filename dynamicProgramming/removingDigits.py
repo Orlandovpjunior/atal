@@ -1,3 +1,5 @@
+# removingDigits
+
 n = int(input())
 dp = [float("inf")] * (n + 1)
 dp[0] = 0
